@@ -1,0 +1,20 @@
+{
+  "profileInstanceRecord" : {
+    "organizationDebtLevel" : "organizationDebtLevel",
+    "organizationCapitalization" : "organizationCapitalization",
+    "organizationEconomicIntent" : "organizationEconomicIntent",
+    "organizationGrowthRate" : "organizationGrowthRate",
+    "organizationRevenueTurnover" : "organizationRevenueTurnover",
+    "organizationProfitabilityStocks" : "organizationProfitabilityStocks"
+  },
+  "partyDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "legalEntityReference" : "769396",
+    "customerReference" : "716042"
+  },
+  "profileUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "profileUpdateActionTaskReference" : "PUATR792623"
+}

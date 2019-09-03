@@ -1,0 +1,32 @@
+{
+  "associationsRetrieveActionResponse" : "associationsRetrieveActionResponse",
+  "associationsInstanceAnalysis" : {
+    "associationsInstanceAnalysisReport" : {},
+    "associationsInstanceAnalysisRecord" : {},
+    "associationsInstanceAnalysisParameters" : "associationsInstanceAnalysisParameters",
+    "associationsInstanceAnalysisReportType" : "associationsInstanceAnalysisReportType"
+  },
+  "partyDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "legalEntityReference" : "792934",
+    "customerReference" : "714500"
+  },
+  "associationsRetrieveActionTaskReference" : "ARATR718620",
+  "associationsRetrieveActionTaskRecord" : {},
+  "associationsInstanceRecord" : {
+    "legalEntityAssociationType" : "legalEntityAssociationType",
+    "subsidiaryLegalEntityReference" : "746333",
+    "legalEntityAssociationObligation" : "legalEntityAssociationObligation",
+    "shareholdingProfile" : "shareholdingProfile",
+    "legalEntityAssociationReference" : "765158",
+    "parentLegalEntityReference" : "709747"
+  },
+  "associationsInstanceReport" : {
+    "associationsInstanceReportType" : "associationsInstanceReportType",
+    "associationsInstanceReportRecord" : {},
+    "associationsInstanceReportParameters" : "associationsInstanceReportParameters",
+    "associationsInstanceReport" : {}
+  }
+}

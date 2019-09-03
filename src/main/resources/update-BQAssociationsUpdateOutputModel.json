@@ -1,0 +1,20 @@
+{
+  "partyDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "legalEntityReference" : "767496",
+    "customerReference" : "781391"
+  },
+  "associationsUpdateActionTaskReference" : "AUATR790566",
+  "associationsInstanceRecord" : {
+    "legalEntityAssociationType" : "legalEntityAssociationType",
+    "subsidiaryLegalEntityReference" : "768240",
+    "legalEntityAssociationObligation" : "legalEntityAssociationObligation",
+    "shareholdingProfile" : "shareholdingProfile",
+    "legalEntityAssociationReference" : "729105",
+    "parentLegalEntityReference" : "738297"
+  },
+  "updateResponseRecord" : {},
+  "associationsUpdateActionTaskRecord" : {}
+}

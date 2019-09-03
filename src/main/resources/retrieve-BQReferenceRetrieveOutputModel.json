@@ -1,0 +1,38 @@
+{
+  "partyDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "legalEntityReference" : "724752",
+    "customerReference" : "753485"
+  },
+  "referenceInstanceRecord" : {
+    "taxReference" : "715359",
+    "registeredAddress" : "registeredAddress",
+    "dateofIncorporation" : "dateofIncorporation",
+    "registrationAuthority" : "registrationAuthority",
+    "legalEntityOfficialName" : "legalEntityOfficialName",
+    "legalEntityType" : "legalEntityType",
+    "headquartersLocation" : "headquartersLocation",
+    "jurisdictionofIncorporation" : "jurisdictionofIncorporation",
+    "contactRole" : "contactRole",
+    "contactAddressDetails" : "contactAddressDetails",
+    "sectorsofOperation" : "sectorsofOperation",
+    "primaryRegulator" : "primaryRegulator"
+  },
+  "referenceRetrieveActionResponse" : "referenceRetrieveActionResponse",
+  "referenceRetrieveActionTaskRecord" : {},
+  "referenceInstanceAnalysis" : {
+    "referenceInstanceAnalysisReport" : {},
+    "referenceInstanceAnalysisParameters" : "referenceInstanceAnalysisParameters",
+    "referenceInstanceAnalysisReportType" : "referenceInstanceAnalysisReportType",
+    "referenceInstanceAnalysisRecord" : {}
+  },
+  "referenceRetrieveActionTaskReference" : "RRATR748276",
+  "referenceInstanceReport" : {
+    "referenceInstanceReportParameters" : "referenceInstanceReportParameters",
+    "referenceInstanceReportRecord" : {},
+    "referenceInstanceReport" : {},
+    "referenceInstanceReportType" : "referenceInstanceReportType"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "profileInstanceRecord" : {
+    "organizationDebtLevel" : "organizationDebtLevel",
+    "organizationCapitalization" : "organizationCapitalization",
+    "organizationEconomicIntent" : "organizationEconomicIntent",
+    "organizationGrowthRate" : "organizationGrowthRate",
+    "organizationRevenueTurnover" : "organizationRevenueTurnover",
+    "organizationProfitabilityStocks" : "organizationProfitabilityStocks"
+  },
+  "partyDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "legalEntityReference" : "769016",
+    "customerReference" : "713214"
+  },
+  "profileInstanceReport" : {
+    "profileInstanceReportParameters" : "profileInstanceReportParameters",
+    "profileInstanceReport" : {},
+    "profileInstanceReportType" : "profileInstanceReportType",
+    "profileInstanceReportRecord" : {}
+  },
+  "profileRetrieveActionTaskReference" : "PRATR727353",
+  "profileRetrieveActionTaskRecord" : {},
+  "profileInstanceAnalysis" : {
+    "profileInstanceAnalysisParameters" : "profileInstanceAnalysisParameters",
+    "profileInstanceAnalysisReportType" : "profileInstanceAnalysisReportType",
+    "profileInstanceAnalysisReport" : {},
+    "profileInstanceAnalysisRecord" : {}
+  },
+  "profileRetrieveActionResponse" : "profileRetrieveActionResponse"
+}
